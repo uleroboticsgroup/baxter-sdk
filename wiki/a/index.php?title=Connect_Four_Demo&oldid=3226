@@ -6,17 +6,17 @@
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Connect_Four_Demo","wgTitle":"Connect Four Demo","wgCurRevisionId":3226,"wgRevisionId":3226,"wgArticleId":313,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Connect_Four_Demo","wgRelevantArticleId":313,"wgRequestId":"316c2e71498ad44da898f6c4","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready"});mw.loader.implement("user.tokens@0ppuq4y",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.cavendishmw-rethinkrobotics"]);});</script>
-<link rel="stylesheet" href="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
-<script async="" src="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics"></script>
+<link rel="stylesheet" href="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
+<script async="" src="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
+<link rel="stylesheet" href="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
 <meta name="generator" content="MediaWiki 1.31.0"/>
 <meta name="robots" content="noindex,nofollow"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/wiki/a/opensearch_desc.php" title="sdk-wiki (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="http://sdk.rethinkrobotics.com/wiki/a/api.php?action=rsd"/>
-<link rel="alternate" type="application/atom+xml" title="sdk-wiki Atom feed" href="/wiki/a/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<!--[if lt IE 9]><script src="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics&amp;sync=1"></script><![endif]-->
+<link rel="search" type="application/opensearchdescription+xml" href="/baxter-sdk/wiki/a/opensearch_desc.php" title="sdk-wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="sdk-wiki Atom feed" href="/baxter-sdk/wiki/a/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics&amp;sync=1"></script><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Connect_Four_Demo rootpage-Connect_Four_Demo skin-cavendishmw-rethinkrobotics action-view"><div id="container"><!-- start fragment header -->
     <!-- <div id="mozilla-org"><a href="#">Mozilla Skin</a></div> -->
@@ -25,13 +25,13 @@
 
         <!-- Logo + site name -->
         <h1>
-            <a href="/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/wiki/a/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
+            <a href="/baxter-sdk/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/baxter-sdk/wiki/a/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
 
 	<div id="rr_ActionWrap">
 	<!-- Account action links -->
-	<div id="accountActions"><a href="/wiki/a/index.php?title=Special:UserLogin&returnto=Connect+Four+Demo&returntoquery=oldid%3D3226">Log in</a></div>
+	<div id="accountActions"><a href="/baxter-sdk/wiki/a/index.php?title=Special:UserLogin&returnto=Connect+Four+Demo&returntoquery=oldid%3D3226">Log in</a></div>
         <!-- Search box -->
-            <form action="/wiki/a/index.php" id="searchform">
+            <form action="/baxter-sdk/wiki/a/index.php" id="searchform">
         <label for="searchInput">Search</label>
         <input type='hidden' name="title" value="Special:Search"/>
         <input type="search" name="search" placeholder="Search sdk-wiki" title="Search sdk-wiki [f]" accesskey="f" id="searchInput"/>
@@ -46,15 +46,15 @@
 
 
         <!-- Content action buttons -->
-        <ul><li><a href="#">More</a><ul><li id="ca-viewsource"><a href="/wiki/a/index.php?title=Connect_Four_Demo&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/wiki/a/index.php?title=Connect_Four_Demo&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></li><li id="ca-nstab-main" class="selected"><a href="/wiki/Connect_Four_Demo" title="View the content page [c]" accesskey="c">Page</a></li></ul>
+        <ul><li><a href="#">More</a><ul><li id="ca-viewsource"><a href="/baxter-sdk/wiki/a/index.php?title=Connect_Four_Demo&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/baxter-sdk/wiki/a/index.php?title=Connect_Four_Demo&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></li><li id="ca-nstab-main" class="selected"><a href="/baxter-sdk/wiki/Connect_Four_Demo" title="View the content page [c]" accesskey="c">Page</a></li></ul>
 </div><!-- end fragment firstHeader --><!-- start fragment sidebar -->        <div id="side" class="noprint" > <!-- cavendishmw: s/column-one/side/ -->
             <ul id="nav">
                       <li><span>Navigation</span>
             <ul>
-                <li id="n-Getting-Started"><a href="/wiki/Getting_Started">Getting Started</a></li>
-                <li id="n-Learning"><a href="/wiki/Learning">Learning</a></li>
-                <li id="n-Community"><a href="/wiki/Community">Community</a></li>
-                <li id="n-Support"><a href="/wiki/Support">Support</a></li>
+                <li id="n-Getting-Started"><a href="/baxter-sdk/wiki/Getting_Started">Getting Started</a></li>
+                <li id="n-Learning"><a href="/baxter-sdk/wiki/Learning">Learning</a></li>
+                <li id="n-Community"><a href="/baxter-sdk/wiki/Community">Community</a></li>
+                <li id="n-Support"><a href="/baxter-sdk/wiki/Support">Support</a></li>
             </ul>
         </li>
       <li><span>Links</span>
@@ -66,9 +66,9 @@
         </li>
       <li><span>Tools</span>
             <ul class="collapsible-collapsed">
-                <li id="n-All-Pages"><a href="/wiki/Special:AllPages">All Pages</a></li>
-                <li id="n-Upload-File"><a href="/wiki/Special:Upload">Upload File</a></li>
-                <li id="n-What-Links-Here.3F"><a href="/wiki/Special:WhatLinksHere">What Links Here?</a></li>
+                <li id="n-All-Pages"><a href="/baxter-sdk/wiki/Special:AllPages">All Pages</a></li>
+                <li id="n-Upload-File"><a href="/baxter-sdk/wiki/Special:Upload">Upload File</a></li>
+                <li id="n-What-Links-Here.3F"><a href="/baxter-sdk/wiki/Special:WhatLinksHere">What Links Here?</a></li>
             </ul>
         </li>
             </ul> <!-- /nav -->
@@ -78,11 +78,11 @@
     
   <div id="bodyContent" class="mw-body">
     <div id="siteSub">From sdk-wiki</div>
-    <div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 15:07, 29 July 2014 by <a href="/wiki/a/index.php?title=User:Sdkuser&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Sdkuser (page does not exist)"><bdi>Sdkuser</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/a/index.php?title=User_talk:Sdkuser&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Sdkuser (page does not exist)">talk</a> | <a href="/wiki/Special:Contributions/Sdkuser" class="mw-usertoollinks-contribs" title="Special:Contributions/Sdkuser">contribs</a>)</span> <span class="comment">(Protected &quot;<a href="/wiki/Connect_Four_Demo" title="Connect Four Demo">Connect Four Demo</a>&quot;: Setting Permissions for (almost all) Pages - editable and moveable by all logged in users ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite)))</span></div><div id="mw-revision-nav">(<a href="/wiki/a/index.php?title=Connect_Four_Demo&amp;diff=prev&amp;oldid=3226" title="Connect Four Demo">diff</a>) <a href="/wiki/a/index.php?title=Connect_Four_Demo&amp;direction=prev&amp;oldid=3226" title="Connect Four Demo">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+    <div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 15:07, 29 July 2014 by <a href="/baxter-sdk/wiki/a/index.php?title=User:Sdkuser&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Sdkuser (page does not exist)"><bdi>Sdkuser</bdi></a> <span class="mw-usertoollinks">(<a href="/baxter-sdk/wiki/a/index.php?title=User_talk:Sdkuser&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Sdkuser (page does not exist)">talk</a> | <a href="/baxter-sdk/wiki/Special:Contributions/Sdkuser" class="mw-usertoollinks-contribs" title="Special:Contributions/Sdkuser">contribs</a>)</span> <span class="comment">(Protected &quot;<a href="/baxter-sdk/wiki/Connect_Four_Demo" title="Connect Four Demo">Connect Four Demo</a>&quot;: Setting Permissions for (almost all) Pages - editable and moveable by all logged in users ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite)))</span></div><div id="mw-revision-nav">(<a href="/baxter-sdk/wiki/a/index.php?title=Connect_Four_Demo&amp;diff=prev&amp;oldid=3226" title="Connect Four Demo">diff</a>) <a href="/baxter-sdk/wiki/a/index.php?title=Connect_Four_Demo&amp;direction=prev&amp;oldid=3226" title="Connect Four Demo">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
     <div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
     
   <!-- start content -->
-  <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a href="http://www.hasbro.com/games/en_US/shop/details.cfm?R=80FB5BCA-5056-9047-F5F4-5EB5DF88DAF4:en_US&amp;catType=all%20games" title="Connect 4" rel="nofollow"><img alt="Connect 4" src="/wiki/a/images/c/c4/Connect_four_logo.png" width="345" height="79" /></a>
+  <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a href="http://www.hasbro.com/games/en_US/shop/details.cfm?R=80FB5BCA-5056-9047-F5F4-5EB5DF88DAF4:en_US&amp;catType=all%20games" title="Connect 4" rel="nofollow"><img alt="Connect 4" src="/baxter-sdk/wiki/a/images/c/c4/Connect_four_logo.png" width="345" height="79" /></a>
 </p>
 <div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
 <ul>
@@ -127,7 +127,7 @@
 <p>This demonstration allows Baxter to play Connect 4!
 </p>
 <h2><span class="mw-headline" id="Video">Video</span></h2>
-<p><a href="https://www.youtube.com/watch?v=65HvMaUKnf4" title="Youtube Screenshot" rel="nofollow"><img alt="Youtube Screenshot" src="/wiki/a/images/c/c4/Connect_four_youtube.png" width="700" height="427" /></a>
+<p><a href="https://www.youtube.com/watch?v=65HvMaUKnf4" title="Youtube Screenshot" rel="nofollow"><img alt="Youtube Screenshot" src="/baxter-sdk/wiki/a/images/c/c4/Connect_four_youtube.png" width="700" height="427" /></a>
 </p>
 <h2><span id="Installation/Prerequisites"></span><span class="mw-headline" id="Installation.2FPrerequisites">Installation/Prerequisites</span></h2>
 <p><b>Required:</b>
@@ -136,7 +136,7 @@
 <li>A development PC setup with &gt;= 0.7.0 software (development branch latest)</li>
 <li>A Connect 4 game board and pieces</li>
 <li>At least one Baxter Electric Gripper</li>
-<li>A game piece feeder (<a href="/wiki/Connect_Four_Demo#creating-the-game-piece-feeder" title="Connect Four Demo">instructions for building below</a>)</li></ul>
+<li>A game piece feeder (<a href="/baxter-sdk/wiki/Connect_Four_Demo#creating-the-game-piece-feeder" title="Connect Four Demo">instructions for building below</a>)</li></ul>
 <p>Check out the baxter_sandbox software (where Connect 4 demo is hosted) into your ROS workspace
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ <span class="nb">cd</span> ~/ros_ws/src
@@ -162,8 +162,8 @@
 <h3><span id="Modifying_Baxter's_Fingertips"></span><span class="mw-headline" id="Modifying_Baxter.27s_Fingertips">Modifying Baxter's Fingertips</span></h3>
 <p>The shape (particularly the lips around the edges) of the Connect 4 game pieces required some modification of the gripper fingertips allowing Baxter to grasp the pieces solidly.
 </p><p>To do this, simply file down plastic fingertips allowing the parallel gripper to close solidly on the center of the piece.
-<a href="/wiki/File:Connect_four_gripper_1.png" class="image" title="Gripper Filed 1"><img alt="Gripper Filed 1" src="/wiki/a/images/a/af/Connect_four_gripper_1.png" width="300" height="225" /></a>
-<a href="/wiki/File:Connect_four_gripper_2.png" class="image" title="Gripper Filed 2"><img alt="Gripper Filed 2" src="/wiki/a/images/0/0f/Connect_four_gripper_2.png" width="300" height="225" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_gripper_1.png" class="image" title="Gripper Filed 1"><img alt="Gripper Filed 1" src="/baxter-sdk/wiki/a/images/a/af/Connect_four_gripper_1.png" width="300" height="225" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_gripper_2.png" class="image" title="Gripper Filed 2"><img alt="Gripper Filed 2" src="/baxter-sdk/wiki/a/images/0/0f/Connect_four_gripper_2.png" width="300" height="225" /></a>
 </p><p>During modification, test that the gripper has a solid grasp on the piece using the gripper_cuff_control example:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun baxter_examples gripper_cuff_control.py
@@ -171,52 +171,52 @@
 <h3><span class="mw-headline" id="Creating_the_game_piece_feeder">Creating the game piece feeder</span></h3>
 <p>It will be necessary to create a feeder which will provide Baxter with pieces for grasping in a static location.
 </p><p>80x20 was used to create a feeder which will backfill the  pieces some static location -  
-</p><p><a href="/wiki/File:Connect_four_feeder_1.png" class="image" title="Piece Feeder 1"><img alt="Piece Feeder 1" src="/wiki/a/images/6/64/Connect_four_feeder_1.png" width="300" height="225" /></a>
-<a href="/wiki/File:Connect_four_feeder_2.png" class="image" title="Piece Feeder 2"><img alt="Piece Feeder 2" src="/wiki/a/images/8/81/Connect_four_feeder_2.png" width="300" height="225" /></a>
-<a href="/wiki/File:Connect_four_feeder_4.png" class="image" title="Piece Feeder 4"><img alt="Piece Feeder 4" src="/wiki/a/images/4/41/Connect_four_feeder_4.png" width="300" height="225" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_feeder_1.png" class="image" title="Piece Feeder 1"><img alt="Piece Feeder 1" src="/baxter-sdk/wiki/a/images/6/64/Connect_four_feeder_1.png" width="300" height="225" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_feeder_2.png" class="image" title="Piece Feeder 2"><img alt="Piece Feeder 2" src="/baxter-sdk/wiki/a/images/8/81/Connect_four_feeder_2.png" width="300" height="225" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_feeder_4.png" class="image" title="Piece Feeder 4"><img alt="Piece Feeder 4" src="/baxter-sdk/wiki/a/images/4/41/Connect_four_feeder_4.png" width="300" height="225" /></a>
 </p><p>The end of the extruded portion was bent, to stop the pieces from further rolling. Adding the rubber finger tip over this allowed for a gentle stop.
-</p><p><a href="/wiki/File:Connect_four_feeder_5.png" class="image" title="Piece Feeder 5"><img alt="Piece Feeder 5" src="/wiki/a/images/2/2c/Connect_four_feeder_5.png" width="300" height="225" /></a>
-<a href="/wiki/File:Connect_four_feeder_6.png" class="image" title="Piece Feeder 6"><img alt="Piece Feeder 6" src="/wiki/a/images/e/ed/Connect_four_feeder_6.png" width="300" height="225" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_feeder_5.png" class="image" title="Piece Feeder 5"><img alt="Piece Feeder 5" src="/baxter-sdk/wiki/a/images/2/2c/Connect_four_feeder_5.png" width="300" height="225" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_feeder_6.png" class="image" title="Piece Feeder 6"><img alt="Piece Feeder 6" src="/baxter-sdk/wiki/a/images/e/ed/Connect_four_feeder_6.png" width="300" height="225" /></a>
 </p>
 <h3><span class="mw-headline" id="Board_and_Feeder_Placement">Board and Feeder Placement</span></h3>
 <p>Choosing an appropriate location for the game board and feeder is important due to Baxter's manipulation space.
 </p><p>Place the game board and feeder in a location where Baxter will be able to manipulate pieces into each of the board slots (Adding 10cm for approach/retreats in the Z-axis), and pick game pieces appropriately. Grasping the limb and entering it into zero-g mode should allow you to verify these locations.
 </p><p>It is advised to use double sided tape to prevent the game board/feeder from moving during play.  
-</p><p><a href="/wiki/File:Connect_four_board_1.png" class="image" title="Game Board Tape"><img alt="Game Board Tape" src="/wiki/a/images/b/b7/Connect_four_board_1.png" width="300" height="225" /></a>
-<a href="/wiki/File:Connect_four_feeder_3.png" class="image" title="Piece Feeder Tape"><img alt="Piece Feeder Tape" src="/wiki/a/images/1/12/Connect_four_feeder_3.png" width="300" height="225" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_board_1.png" class="image" title="Game Board Tape"><img alt="Game Board Tape" src="/baxter-sdk/wiki/a/images/b/b7/Connect_four_board_1.png" width="300" height="225" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_feeder_3.png" class="image" title="Piece Feeder Tape"><img alt="Piece Feeder Tape" src="/baxter-sdk/wiki/a/images/1/12/Connect_four_feeder_3.png" width="300" height="225" /></a>
 </p>
 <h2><span class="mw-headline" id="Tutorial">Tutorial</span></h2>
 <h3><span class="mw-headline" id="Running_the_Demo">Running the Demo</span></h3>
-<p>Verify that the robot is enabled from an <a href="/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, ex:
+<p>Verify that the robot is enabled from an <a href="/baxter-sdk/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, ex:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun baxter_tools enable_robot.py -e
 </pre></div>
 <h4><span id="Starting/Configuring_the_Perception"></span><span class="mw-headline" id="Starting.2FConfiguring_the_Perception">Starting/Configuring the Perception</span></h4>
-<p>Start the vision from an <a href="/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, making sure to define which hand camera we will use, ex:
+<p>Start the vision from an <a href="/baxter-sdk/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, making sure to define which hand camera we will use, ex:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun connect_four connect_vision.py -l right
 </pre></div>
 <p>Resulting in the connect four vision gui being launched
-</p><p><a href="/wiki/File:Connect_four_vision_1.png" class="image" title="Vision 1"><img alt="Vision 1" src="/wiki/a/images/5/5a/Connect_four_vision_1.png" width="700" height="440" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_vision_1.png" class="image" title="Vision 1"><img alt="Vision 1" src="/baxter-sdk/wiki/a/images/5/5a/Connect_four_vision_1.png" width="700" height="440" /></a>
 </p><p>Grasp the cuff, placing Baxter's hand camera in a location where he will be able to see all placements locations on the board (such as above). Be sure that the fingers or a grasped game piece will not occlude the board.
 </p><p>Click and drag all four corners corners of the ROI (Region Of Interest) selector (green quadrilateral) to locations at the edge of the game board.
-</p><p><a href="/wiki/File:Connect_four_vision_2.png" class="image" title="Vision 2"><img alt="Vision 2" src="/wiki/a/images/3/35/Connect_four_vision_2.png" width="700" height="438" /></a>
-<a href="/wiki/File:Connect_four_vision_3.png" class="image" title="Vision 3"><img alt="Vision 3" src="/wiki/a/images/8/8b/Connect_four_vision_3.png" width="700" height="438" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_vision_2.png" class="image" title="Vision 2"><img alt="Vision 2" src="/baxter-sdk/wiki/a/images/3/35/Connect_four_vision_2.png" width="700" height="438" /></a>
+<a href="/baxter-sdk/wiki/File:Connect_four_vision_3.png" class="image" title="Vision 3"><img alt="Vision 3" src="/baxter-sdk/wiki/a/images/8/8b/Connect_four_vision_3.png" width="700" height="438" /></a>
 </p><p>Resulting in  
-</p><p><a href="/wiki/File:Connect_four_vision_4.png" class="image" title="Vision 4"><img alt="Vision 4" src="/wiki/a/images/4/47/Connect_four_vision_4.png" width="700" height="438" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_vision_4.png" class="image" title="Vision 4"><img alt="Vision 4" src="/baxter-sdk/wiki/a/images/4/47/Connect_four_vision_4.png" width="700" height="438" /></a>
 </p><p>The 'Yellow' subwindow describes the perceived yellow game pieces. This is done in HSV space, identifying yellow pixels based on a chosen hue range.
-</p><p><a href="/wiki/File:Connect_four_vision_yellow.png" class="image" title="Vision yellow"><img alt="Vision yellow" src="/wiki/a/images/e/e8/Connect_four_vision_yellow.png" width="306" height="332" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_vision_yellow.png" class="image" title="Vision yellow"><img alt="Vision yellow" src="/baxter-sdk/wiki/a/images/e/e8/Connect_four_vision_yellow.png" width="306" height="332" /></a>
 </p><p>Likewise, the 'Red' subwindow describes observed red game pieces.
-</p><p><a href="/wiki/File:Connect_four_vision_red.png" class="image" title="Vision red"><img alt="Vision red" src="/wiki/a/images/6/61/Connect_four_vision_red.png" width="304" height="330" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_vision_red.png" class="image" title="Vision red"><img alt="Vision red" src="/baxter-sdk/wiki/a/images/6/61/Connect_four_vision_red.png" width="304" height="330" /></a>
 </p><p>Because we have a known grid size, 7x6, and a user selected ROI describing the whole of the game board, the perception is done by counting the observed yellow/red pixels in each grid location. We then threshold (configurable with the slider on the main window) on the total count of pixels per grid location.
 </p><p>The result is overlaid on the following image. The numbers 1 and 2 denote that Baxter has seen the placed pieces.
-</p><p><a href="/wiki/File:Connect_four_vision_board_state.png" class="image" title="Vision Board"><img alt="Vision Board" src="/wiki/a/images/5/55/Connect_four_vision_board_state.png" width="304" height="330" /></a>
+</p><p><a href="/baxter-sdk/wiki/File:Connect_four_vision_board_state.png" class="image" title="Vision Board"><img alt="Vision Board" src="/baxter-sdk/wiki/a/images/5/55/Connect_four_vision_board_state.png" width="304" height="330" /></a>
 </p><p>This exact structure 7x6 matrix, is published on the topic ``<code>/vision/connect_four_state</code>`` as a string, where 0's denote unoccupied, 1 denoting red, 2 denoting yellow.
 </p><p><b>Important Note:</b>  You may need to adjust the gain for the camera based on the lighting. This has been provided through a slider at the top of the main window. Adjust this to a level where the yellow and red subwindows look to be observing the game pieces regularly.
 </p><p><b>Important Note:</b> You will need to adjust the ROI so that in the 'Board State' window's grid is filled accurately with the actual game board locations. Making sure that the locations do not cross into multiple grid locations as this will cause false positives.
 </p>
 <h4><span class="mw-headline" id="Running_a_New_Game">Running a New Game</span></h4>
-<p>After starting the vision as shown above, from another <a href="/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, start a new Connect Four game, defining which limb you will be using, as well as the color of Baxter's game pieces, ex:
+<p>After starting the vision as shown above, from another <a href="/baxter-sdk/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, start a new Connect Four game, defining which limb you will be using, as well as the color of Baxter's game pieces, ex:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    <span class="o">=</span> We will use the right arm, where Baxter is playing with the red <span class="nv">pieces</span> <span class="o">=</span>
     $ rosrun connect_four connect_game.py -l right -c red
@@ -249,7 +249,7 @@
 </p>
 <h2><span class="mw-headline" id="Interfaces">Interfaces</span></h2>
 <h3><span class="mw-headline" id="ROS_APIs">ROS APIs</span></h3>
-<p><i>See the <a href="/wiki/API_Reference" title="API Reference">API Reference</a> page for details.</i>  
+<p><i>See the <a href="/baxter-sdk/wiki/API_Reference" title="API Reference">API Reference</a> page for details.</i>  
 </p>
 <ul><li>Joint Position Commands - /robot/limb/\&lt;left/right\&gt;/joint_command</li></ul>
 <p>[baxter_core_msgs/JointCommand]
@@ -261,8 +261,8 @@
 <h3><span class="mw-headline" id="baxter_interface_APIs">baxter_interface APIs</span></h3>
 <ul><li>Limb class: <code>limb.py</code></li></ul>
 <h2><span id="Related_Examples/Tutorials"></span><span class="mw-headline" id="Related_Examples.2FTutorials">Related Examples/Tutorials</span></h2>
-<ul><li><a href="/wiki/Joint_Position_Example" title="Joint Position Example">Joint Position File Playback Example</a></li>
-<li><a href="/wiki/IK_Service_Example" title="IK Service Example">Inverse Kinematics Example</a></li></ul>
+<ul><li><a href="/baxter-sdk/wiki/Joint_Position_Example" title="Joint Position Example">Joint Position File Playback Example</a></li>
+<li><a href="/baxter-sdk/wiki/IK_Service_Example" title="IK Service Example">Inverse Kinematics Example</a></li></ul>
 <h2><span class="mw-headline" id="Troubleshooting">Troubleshooting</span></h2>
 <h3><span id="The_arm_is_moving_oddly/colliding_with_the_board/table"></span><span class="mw-headline" id="The_arm_is_moving_oddly.2Fcolliding_with_the_board.2Ftable">The arm is moving oddly/colliding with the board/table</span></h3>
 <p>It is possible that the IK solutions found may have resulted in an 'elbow down' configuration causing the motion between positions to be large causing the collision.
@@ -296,7 +296,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Saved in parser cache with key wikisdk:pcache:idhash:313-0!canonical and timestamp 20221206064631 and revision id 3226
  -->
 </div><div class="printfooter">
-Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/wiki/a/index.php?title=Connect_Four_Demo&amp;oldid=3226">http://sdk.rethinkrobotics.com/wiki/a/index.php?title=Connect_Four_Demo&amp;oldid=3226</a>"</div>
+Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/index.php?title=Connect_Four_Demo&amp;oldid=3226">http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/index.php?title=Connect_Four_Demo&amp;oldid=3226</a>"</div>
   <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>  <!-- end content -->
   
     <div class="visualClear"></div>
@@ -304,13 +304,13 @@ Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/wiki/a/index.p
 </div> <!-- /mainContent -->
 <!-- end fragment mainContent --></div> <!-- /mBody --><div class="visualClear"></div><!-- start fragment footer -->    <div id="footer" role="contentinfo">
         <div id="f-poweredbyico">
-                <a href="//www.mediawiki.org/"><img src="/wiki/a/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/a/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/a/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+                <a href="//www.mediawiki.org/"><img src="/baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
             </div>
         <ul id="f-list">
                 <li id="copywrite_notice">&copy; 2015 Rethink Robotics. All rights reserved.</li>
-                <li id="special_pages"><a href="/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
-                <li id="privacy"><a href="/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
-                <li id="about"><a href="/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
-                <li id="disclaimer"><a href="/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
+                <li id="special_pages"><a href="/baxter-sdk/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
+                <li id="privacy"><a href="/baxter-sdk/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
+                <li id="about"><a href="/baxter-sdk/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
+                <li id="disclaimer"><a href="/baxter-sdk/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
             </ul>
     </div><!-- end fragment footer --></div><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.117","walltime":"1.881","ppvisitednodes":{"value":165,"limit":1000000},"ppgeneratednodes":{"value":280,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2250,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20221206064633","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2049});});</script></body></html>

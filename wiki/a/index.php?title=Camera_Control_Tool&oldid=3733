@@ -6,17 +6,17 @@
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Camera_Control_Tool","wgTitle":"Camera Control Tool","wgCurRevisionId":3733,"wgRevisionId":3733,"wgArticleId":311,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Camera_Control_Tool","wgRelevantArticleId":311,"wgRequestId":"b8390be30d84b9a374e2a41f","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready"});mw.loader.implement("user.tokens@01doy7a",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.cavendishmw-rethinkrobotics"]);});</script>
-<link rel="stylesheet" href="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
-<script async="" src="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics"></script>
+<link rel="stylesheet" href="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
+<script async="" src="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
+<link rel="stylesheet" href="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
 <meta name="generator" content="MediaWiki 1.31.0"/>
 <meta name="robots" content="noindex,nofollow"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/wiki/a/opensearch_desc.php" title="sdk-wiki (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="http://sdk.rethinkrobotics.com/wiki/a/api.php?action=rsd"/>
-<link rel="alternate" type="application/atom+xml" title="sdk-wiki Atom feed" href="/wiki/a/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<!--[if lt IE 9]><script src="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics&amp;sync=1"></script><![endif]-->
+<link rel="search" type="application/opensearchdescription+xml" href="/baxter-sdk/wiki/a/opensearch_desc.php" title="sdk-wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="sdk-wiki Atom feed" href="/baxter-sdk/wiki/a/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics&amp;sync=1"></script><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Camera_Control_Tool rootpage-Camera_Control_Tool skin-cavendishmw-rethinkrobotics action-view"><div id="container"><!-- start fragment header -->
     <!-- <div id="mozilla-org"><a href="#">Mozilla Skin</a></div> -->
@@ -25,13 +25,13 @@
 
         <!-- Logo + site name -->
         <h1>
-            <a href="/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/wiki/a/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
+            <a href="/baxter-sdk/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/baxter-sdk/wiki/a/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
 
 	<div id="rr_ActionWrap">
 	<!-- Account action links -->
-	<div id="accountActions"><a href="http://sdk-accounts.rethinkrobotics.com/public/NewUser">Create account</a><a href="/wiki/a/index.php?title=Special:UserLogin&returnto=Camera+Control+Tool&returntoquery=oldid%3D3733">Log in</a></div>
+	<div id="accountActions"><a href="http://sdk-accounts.rethinkrobotics.com/public/NewUser">Create account</a><a href="/baxter-sdk/wiki/a/index.php?title=Special:UserLogin&returnto=Camera+Control+Tool&returntoquery=oldid%3D3733">Log in</a></div>
         <!-- Search box -->
-            <form action="/wiki/a/index.php" id="searchform">
+            <form action="/baxter-sdk/wiki/a/index.php" id="searchform">
         <label for="searchInput">Search</label>
         <input type='hidden' name="title" value="Special:Search"/>
         <input type="search" name="search" placeholder="Search sdk-wiki" title="Search sdk-wiki [f]" accesskey="f" id="searchInput"/>
@@ -46,15 +46,15 @@
 
 
         <!-- Content action buttons -->
-        <ul><li><a href="#">More</a><ul><li id="ca-viewsource"><a href="/wiki/a/index.php?title=Camera_Control_Tool&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/wiki/a/index.php?title=Camera_Control_Tool&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></li><li id="ca-nstab-main" class="selected"><a href="/wiki/Camera_Control_Tool" title="View the content page [c]" accesskey="c">Page</a></li></ul>
+        <ul><li><a href="#">More</a><ul><li id="ca-viewsource"><a href="/baxter-sdk/wiki/a/index.php?title=Camera_Control_Tool&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/baxter-sdk/wiki/a/index.php?title=Camera_Control_Tool&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></li><li id="ca-nstab-main" class="selected"><a href="/baxter-sdk/wiki/Camera_Control_Tool" title="View the content page [c]" accesskey="c">Page</a></li></ul>
 </div><!-- end fragment firstHeader --><!-- start fragment sidebar -->        <div id="side" class="noprint" > <!-- cavendishmw: s/column-one/side/ -->
             <ul id="nav">
                       <li><span>Navigation</span>
             <ul>
-                <li id="n-Getting-Started"><a href="/wiki/Getting_Started">Getting Started</a></li>
-                <li id="n-Learning"><a href="/wiki/Learning">Learning</a></li>
-                <li id="n-Community"><a href="/wiki/Community">Community</a></li>
-                <li id="n-Support"><a href="/wiki/Support">Support</a></li>
+                <li id="n-Getting-Started"><a href="/baxter-sdk/wiki/Getting_Started">Getting Started</a></li>
+                <li id="n-Learning"><a href="/baxter-sdk/wiki/Learning">Learning</a></li>
+                <li id="n-Community"><a href="/baxter-sdk/wiki/Community">Community</a></li>
+                <li id="n-Support"><a href="/baxter-sdk/wiki/Support">Support</a></li>
             </ul>
         </li>
       <li><span>Links</span>
@@ -66,9 +66,9 @@
         </li>
       <li><span>Tools</span>
             <ul class="collapsible-collapsed">
-                <li id="n-All-Pages"><a href="/wiki/Special:AllPages">All Pages</a></li>
-                <li id="n-Upload-File"><a href="/wiki/Special:Upload">Upload File</a></li>
-                <li id="n-What-Links-Here.3F"><a href="/wiki/Special:WhatLinksHere">What Links Here?</a></li>
+                <li id="n-All-Pages"><a href="/baxter-sdk/wiki/Special:AllPages">All Pages</a></li>
+                <li id="n-Upload-File"><a href="/baxter-sdk/wiki/Special:Upload">Upload File</a></li>
+                <li id="n-What-Links-Here.3F"><a href="/baxter-sdk/wiki/Special:WhatLinksHere">What Links Here?</a></li>
             </ul>
         </li>
             </ul> <!-- /nav -->
@@ -78,7 +78,7 @@
     
   <div id="bodyContent" class="mw-body">
     <div id="siteSub">From sdk-wiki</div>
-    <div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 23:05, 22 December 2014 by <a href="/wiki/a/index.php?title=User:Imcmahon&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Imcmahon (page does not exist)"><bdi>Imcmahon</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/a/index.php?title=User_talk:Imcmahon&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Imcmahon (page does not exist)">talk</a> | <a href="/wiki/Special:Contributions/Imcmahon" class="mw-usertoollinks-contribs" title="Special:Contributions/Imcmahon">contribs</a>)</span> <span class="comment">(<a href="#Detailed_Walkthrough">→</a>‎<span dir="auto"><span class="autocomment">Detailed Walkthrough</span></span>)</span></div><div id="mw-revision-nav">(<a href="/wiki/a/index.php?title=Camera_Control_Tool&amp;diff=prev&amp;oldid=3733" title="Camera Control Tool">diff</a>) <a href="/wiki/a/index.php?title=Camera_Control_Tool&amp;direction=prev&amp;oldid=3733" title="Camera Control Tool">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+    <div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 23:05, 22 December 2014 by <a href="/baxter-sdk/wiki/a/index.php?title=User:Imcmahon&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Imcmahon (page does not exist)"><bdi>Imcmahon</bdi></a> <span class="mw-usertoollinks">(<a href="/baxter-sdk/wiki/a/index.php?title=User_talk:Imcmahon&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Imcmahon (page does not exist)">talk</a> | <a href="/baxter-sdk/wiki/Special:Contributions/Imcmahon" class="mw-usertoollinks-contribs" title="Special:Contributions/Imcmahon">contribs</a>)</span> <span class="comment">(<a href="#Detailed_Walkthrough">→</a>‎<span dir="auto"><span class="autocomment">Detailed Walkthrough</span></span>)</span></div><div id="mw-revision-nav">(<a href="/baxter-sdk/wiki/a/index.php?title=Camera_Control_Tool&amp;diff=prev&amp;oldid=3733" title="Camera Control Tool">diff</a>) <a href="/baxter-sdk/wiki/a/index.php?title=Camera_Control_Tool&amp;direction=prev&amp;oldid=3733" title="Camera Control Tool">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
     <div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
     
   <!-- start content -->
@@ -109,7 +109,7 @@
 </p><p><b>Important Note:</b> As of RSDK 1.1 opening and closing of cameras has changed. Due to 64-bit limitations with the Indigo Baxter's internal USB hub, we can only power on two cameras at once. Previously all cameras could be powered at the same time, but only two could be opened. To accommodate this extra restriction, in RSDK 1.1, closing a camera will also turn power <code>OFF</code> to that camera, and turn power <code>ON</code> to both of Baxter's other cameras. You can turn power <code>OFF</code> to any camera by closing that camera (regardless of whether that camera was actually open or closed previously). Closing another camera is a good way to ensure power is <code>ON</code> on a camera that you are interested in viewing before actually opening it.
 </p>
 <h2><span class="mw-headline" id="Quickstart">Quickstart</span></h2>
-<p>Close a camera you are not interested in viewing to enable power to your camera of interest. Let's say you want to view the <code>head_camera</code>. From an <a href="/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, close either the <code>left_camera</code> or <code>right_camera</code>, list the powered cameras, and open the <code>head_camera</code>:
+<p>Close a camera you are not interested in viewing to enable power to your camera of interest. Let's say you want to view the <code>head_camera</code>. From an <a href="/baxter-sdk/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, close either the <code>left_camera</code> or <code>right_camera</code>, list the powered cameras, and open the <code>head_camera</code>:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun baxter_tools camera_control.py -l
     left_hand_camera  -  <span class="o">(</span>open<span class="o">)</span>
@@ -145,7 +145,7 @@
 <li>384x240</li>
 <li>320x200</li></ul>
 <p>If given an unsupported frame size, this example will exit with the ValueError: Invalid Camera mode.
-</p><p>For more information on Baxter's cameras, see <a href="/wiki/Using_the_Cameras" class="mw-redirect" title="Using the Cameras">Using the Cameras</a>.
+</p><p>For more information on Baxter's cameras, see <a href="/baxter-sdk/wiki/Using_the_Cameras" class="mw-redirect" title="Using the Cameras">Using the Cameras</a>.
 </p><p><br />
 </p>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
@@ -167,7 +167,7 @@
 </pre>
 <h2><span class="mw-headline" id="Interfaces">Interfaces</span></h2>
 <h3><span class="mw-headline" id="ROS_APIs">ROS APIs</span></h3>
-<p><i>See the <a href="/wiki/API_Reference#cameras" title="API Reference">API Reference</a> page for details.</i> 
+<p><i>See the <a href="/baxter-sdk/wiki/API_Reference#cameras" title="API Reference">API Reference</a> page for details.</i> 
 </p>
 <ul><li>List Available Cameras Service: <code>/cameras/list</code></li>
 <li>Open a Specified Camera Service&#160;: <code>/cameras/open {name: &lt;camera_name&gt;, settings: {&lt;optional settings&gt;}}</code></li>
@@ -177,7 +177,7 @@
 <h2><span class="mw-headline" id="Detailed_Walkthrough">Detailed Walkthrough</span></h2>
 <p>This section will described in more detail the usage of the Camera Control Example.
 </p><p><br />
-</p><p>List all of the available cameras <a href="/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, ex:
+</p><p>List all of the available cameras <a href="/baxter-sdk/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a>, ex:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun baxter_tools camera_control.py -l
 </pre></div>
@@ -214,7 +214,7 @@ Now lets open one of these cameras with default settings:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rostopic <span class="nb">echo</span> /cameras/right_hand_camera/camera_info
 </pre></div>
-<p>This topic is used by tools such as <a href="/wiki/Rviz" title="Rviz">rviz</a>. It contains camera calibration and operational parameters. Because of discrepancies between <a href="/wiki/Rviz" title="Rviz">rviz</a> and other camera tools such as <a rel="nofollow" class="external text" href="http://www.ros.org/wiki/image_proc">image_proc</a> regarding the format of the camera_info topic, we have created descriptions satisfying both formats.    
+<p>This topic is used by tools such as <a href="/baxter-sdk/wiki/Rviz" title="Rviz">rviz</a>. It contains camera calibration and operational parameters. Because of discrepancies between <a href="/baxter-sdk/wiki/Rviz" title="Rviz">rviz</a> and other camera tools such as <a rel="nofollow" class="external text" href="http://www.ros.org/baxter-sdk/wiki/image_proc">image_proc</a> regarding the format of the camera_info topic, we have created descriptions satisfying both formats.    
 <code>camera_info</code> - rviz expected format    
 <code>camera_info_std</code> - image pipeline expected format.    
 </p><p>View the camera feed in rviz:
@@ -235,7 +235,7 @@ Now lets open one of these cameras with default settings:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun image_view image_view image:<span class="o">=</span>/cameras/left_hand_camera/image
 </pre></div>
-<p>Create a second <a href="/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a> in another tab or window, and open the left_hand_camera at a different supported resolution:
+<p>Create a second <a href="/baxter-sdk/wiki/RSDK_Shell" title="RSDK Shell">RSDK terminal session</a> in another tab or window, and open the left_hand_camera at a different supported resolution:
 </p>
 <div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span>    $ rosrun baxter_tools camera_control.py -o left_hand_camera -r 1280x800
 </pre></div>
@@ -247,7 +247,7 @@ Change to different resolutions:
     $ rosrun baxter_tools camera_control.py -o left_hand_camera -r 960x600
 </pre></div>
 <h2><span class="mw-headline" id="Troubleshooting">Troubleshooting</span></h2>
-<p>For common issues specific to using the camera control example with Baxter, check out the <a href="/wiki/Contact" title="Contact">Troubleshooting</a> page.
+<p>For common issues specific to using the camera control example with Baxter, check out the <a href="/baxter-sdk/wiki/Contact" title="Contact">Troubleshooting</a> page.
 </p>
 <!-- 
 NewPP limit report
@@ -273,7 +273,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Saved in parser cache with key wikisdk:pcache:idhash:311-0!canonical and timestamp 20190729030059 and revision id 3733
  -->
 </div><div class="printfooter">
-Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/wiki/a/index.php?title=Camera_Control_Tool&amp;oldid=3733">http://sdk.rethinkrobotics.com/wiki/a/index.php?title=Camera_Control_Tool&amp;oldid=3733</a>"</div>
+Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/index.php?title=Camera_Control_Tool&amp;oldid=3733">http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/index.php?title=Camera_Control_Tool&amp;oldid=3733</a>"</div>
   <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>  <!-- end content -->
   
     <div class="visualClear"></div>
@@ -281,13 +281,13 @@ Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/wiki/a/index.p
 </div> <!-- /mainContent -->
 <!-- end fragment mainContent --></div> <!-- /mBody --><div class="visualClear"></div><!-- start fragment footer -->    <div id="footer" role="contentinfo">
         <div id="f-poweredbyico">
-                <a href="//www.mediawiki.org/"><img src="/wiki/a/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/a/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/a/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+                <a href="//www.mediawiki.org/"><img src="/baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
             </div>
         <ul id="f-list">
                 <li id="copywrite_notice">&copy; 2015 Rethink Robotics. All rights reserved.</li>
-                <li id="special_pages"><a href="/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
-                <li id="privacy"><a href="/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
-                <li id="about"><a href="/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
-                <li id="disclaimer"><a href="/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
+                <li id="special_pages"><a href="/baxter-sdk/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
+                <li id="privacy"><a href="/baxter-sdk/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
+                <li id="about"><a href="/baxter-sdk/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
+                <li id="disclaimer"><a href="/baxter-sdk/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
             </ul>
     </div><!-- end fragment footer --></div><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.075","walltime":"2.991","ppvisitednodes":{"value":186,"limit":1000000},"ppgeneratednodes":{"value":372,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4133,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20190729030102","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":46});});</script></body></html>

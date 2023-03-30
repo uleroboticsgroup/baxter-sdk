@@ -33,7 +33,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 
         <!-- Logo + site name -->
         <h1>
-            <a href="/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/mediawiki-1.22.2/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
+            <a href="/baxter-sdk/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/mediawiki-1.22.2/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
 
 	<div id="rr_ActionWrap">
 	<!-- Account action links -->
@@ -54,15 +54,15 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 
 
         <!-- Content action buttons -->
-        <ul><li><a href="#">More</a><ul><li id="ca-nstab-image" class="selected"><a href="/wiki/File:Baxter_moveit_done.png" title="View the file page [c]" accesskey="c">File</a></li><li id="ca-talk" class="new"><a href="/mediawiki-1.22.2/index.php?title=File_talk:Baxter_moveit_done.png&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li><li id="ca-viewsource"><a href="/mediawiki-1.22.2/index.php?title=File:Baxter_moveit_done.png&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/mediawiki-1.22.2/index.php?title=File:Baxter_moveit_done.png&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></li></ul>
+        <ul><li><a href="#">More</a><ul><li id="ca-nstab-image" class="selected"><a href="/baxter-sdk/wiki/File:Baxter_moveit_done.png" title="View the file page [c]" accesskey="c">File</a></li><li id="ca-talk" class="new"><a href="/mediawiki-1.22.2/index.php?title=File_talk:Baxter_moveit_done.png&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li><li id="ca-viewsource"><a href="/mediawiki-1.22.2/index.php?title=File:Baxter_moveit_done.png&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/mediawiki-1.22.2/index.php?title=File:Baxter_moveit_done.png&amp;action=history" rel="archives" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></li></ul>
 </div><!-- end fragment firstHeader --><!-- start fragment sidebar -->        <div id="side" class="noprint" > <!-- cavendishmw: s/column-one/side/ -->
             <ul id="nav">
                       <li><span>Navigation</span>
             <ul>
-                <li id="n-Getting-Started"><a href="/wiki/Getting_Started">Getting Started</a></li>
-                <li id="n-Learning"><a href="/wiki/Learning">Learning</a></li>
-                <li id="n-Community"><a href="/wiki/Community">Community</a></li>
-                <li id="n-Support"><a href="/wiki/Support">Support</a></li>
+                <li id="n-Getting-Started"><a href="/baxter-sdk/wiki/Getting_Started">Getting Started</a></li>
+                <li id="n-Learning"><a href="/baxter-sdk/wiki/Learning">Learning</a></li>
+                <li id="n-Community"><a href="/baxter-sdk/wiki/Community">Community</a></li>
+                <li id="n-Support"><a href="/baxter-sdk/wiki/Support">Support</a></li>
             </ul>
         </li>
       <li><span>Links</span>
@@ -74,9 +74,9 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
         </li>
       <li><span>Tools</span>
             <ul class="collapsible-collapsed">
-                <li id="n-All-Pages"><a href="/wiki/Special:AllPages">All Pages</a></li>
-                <li id="n-Upload-File"><a href="/wiki/Special:Upload">Upload File</a></li>
-                <li id="n-What-Links-Here.3F"><a href="/wiki/Special:WhatLinksHere">What Links Here?</a></li>
+                <li id="n-All-Pages"><a href="/baxter-sdk/wiki/Special:AllPages">All Pages</a></li>
+                <li id="n-Upload-File"><a href="/baxter-sdk/wiki/Special:Upload">Upload File</a></li>
+                <li id="n-What-Links-Here.3F"><a href="/baxter-sdk/wiki/Special:WhatLinksHere">What Links Here?</a></li>
             </ul>
         </li>
             </ul> <!-- /nav -->
@@ -118,7 +118,7 @@ Expensive parser function count: 0/100
 </p>
 <table class="wikitable filehistory">
 <tr><td></td><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
-<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="/mediawiki-1.22.2/images/7/7d/Baxter_moveit_done.png">19:57, 20 February 2014</a></td><td><a href="/mediawiki-1.22.2/images/7/7d/Baxter_moveit_done.png"><img alt="Thumbnail for version as of 19:57, 20 February 2014" src="/mediawiki-1.22.2/images/thumb/7/7d/Baxter_moveit_done.png/120px-Baxter_moveit_done.png" width="120" height="66" /></a></td><td>700 × 384 <span style="white-space: nowrap;">(102 KB)</span></td><td><a href="/wiki/Special:Contributions/Maintenance_script" title="Special:Contributions/Maintenance script" class="mw-userlink">Maintenance script</a> <span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/mediawiki-1.22.2/index.php?title=User_talk:Maintenance_script&amp;action=edit&amp;redlink=1" class="new" title="User talk:Maintenance script (page does not exist)">Talk</a>)</span></span></td><td dir="ltr">Importing file</td></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="/mediawiki-1.22.2/images/7/7d/Baxter_moveit_done.png">19:57, 20 February 2014</a></td><td><a href="/mediawiki-1.22.2/images/7/7d/Baxter_moveit_done.png"><img alt="Thumbnail for version as of 19:57, 20 February 2014" src="/mediawiki-1.22.2/images/thumb/7/7d/Baxter_moveit_done.png/120px-Baxter_moveit_done.png" width="120" height="66" /></a></td><td>700 × 384 <span style="white-space: nowrap;">(102 KB)</span></td><td><a href="/baxter-sdk/wiki/Special:Contributions/Maintenance_script" title="Special:Contributions/Maintenance script" class="mw-userlink">Maintenance script</a> <span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/mediawiki-1.22.2/index.php?title=User_talk:Maintenance_script&amp;action=edit&amp;redlink=1" class="new" title="User talk:Maintenance script (page does not exist)">Talk</a>)</span></span></td><td dir="ltr">Importing file</td></tr>
 </table>
 
 </div>
@@ -129,7 +129,7 @@ Expensive parser function count: 0/100
 <div id='mw-imagepage-section-linkstoimage'>
 <p>The following page links to this file:
 </p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/MoveIt_Tutorial" title="MoveIt Tutorial">MoveIt Tutorial</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/baxter-sdk/wiki/MoveIt_Tutorial" title="MoveIt Tutorial">MoveIt Tutorial</a></li>
 </ul>
 </div>
 <h2 id="metadata">Metadata</h2>
@@ -164,10 +164,10 @@ Retrieved from "<a href="http://sdk.rethinkrobotics.com/mediawiki-1.22.2/index.p
         <ul id="f-list">
                 <li id="lastmod"> </li>
                 <li id="copywrite_notice">&copy; 2015 Rethink Robotics. All rights reserved.</li>
-                <li id="special_pages"><a href="/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
-                <li id="privacy"><a href="/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
-                <li id="about"><a href="/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
-                <li id="disclaimer"><a href="/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
+                <li id="special_pages"><a href="/baxter-sdk/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
+                <li id="privacy"><a href="/baxter-sdk/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
+                <li id="about"><a href="/baxter-sdk/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
+                <li id="disclaimer"><a href="/baxter-sdk/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
             </ul>
     </div><!-- end fragment footer --></div><script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
 mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});

@@ -6,18 +6,18 @@
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Contributions","wgNamespaceNumber":-1,"wgPageName":"Special:Contributions/50.202.91.130","wgTitle":"Contributions/50.202.91.130","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Contributions/50.202.91.130","wgRelevantArticleId":0,"wgRequestId":"247069157e7e515fc64c2754","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRelevantUserName":"50.202.91.130"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.special":"ready","mediawiki.special.changeslist":"ready","mediawiki.helplink":"ready","mediawiki.widgets.DateInputWidget.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","oojs-ui.styles.textures":"ready","mediawiki.widgets.styles":"ready","oojs-ui.styles.icons-content":"ready","oojs-ui.styles.icons-alerts":"ready","oojs-ui.styles.icons-interactions":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.feedlink":"ready"});mw.loader.implement("user.tokens@0ppuq4y",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["mediawiki.userSuggest","mediawiki.special.contributions","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.cavendishmw-rethinkrobotics"]);});</script>
-<link rel="stylesheet" href="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.feedlink%2Chelplink%2CsectionAnchor%2Cspecial%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special.changeslist%7Cmediawiki.widgets.DateInputWidget.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons-alerts%2Cicons-content%2Cicons-interactions%2Cindicators%2Ctextures&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
-<script async="" src="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics"></script>
+<link rel="stylesheet" href="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.feedlink%2Chelplink%2CsectionAnchor%2Cspecial%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special.changeslist%7Cmediawiki.widgets.DateInputWidget.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons-alerts%2Cicons-content%2Cicons-interactions%2Cindicators%2Ctextures&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
+<script async="" src="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
+<link rel="stylesheet" href="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=cavendishmw-rethinkrobotics"/>
 <meta name="generator" content="MediaWiki 1.31.0"/>
 <meta name="robots" content="noindex,nofollow"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/wiki/a/opensearch_desc.php" title="sdk-wiki (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="http://sdk.rethinkrobotics.com/wiki/a/api.php?action=rsd"/>
-<link rel="alternate" type="application/atom+xml" title="&quot;Special:Contributions/50.202.91.130&quot; Atom feed" href="/wiki/a/api.php?action=feedcontributions&amp;user=50.202.91.130&amp;feedformat=atom"/>
-<link rel="alternate" type="application/atom+xml" title="sdk-wiki Atom feed" href="/wiki/a/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<!--[if lt IE 9]><script src="/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics&amp;sync=1"></script><![endif]-->
+<link rel="search" type="application/opensearchdescription+xml" href="/baxter-sdk/wiki/a/opensearch_desc.php" title="sdk-wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://sdk.rethinkrobotics.com/baxter-sdk/wiki/a/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="&quot;Special:Contributions/50.202.91.130&quot; Atom feed" href="/baxter-sdk/wiki/a/api.php?action=feedcontributions&amp;user=50.202.91.130&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="sdk-wiki Atom feed" href="/baxter-sdk/wiki/a/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/baxter-sdk/wiki/a/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=cavendishmw-rethinkrobotics&amp;sync=1"></script><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Contributions page-Special_Contributions_50_202_91_130 rootpage-Special_Contributions_50_202_91_130 skin-cavendishmw-rethinkrobotics action-view"><div id="container"><!-- start fragment header -->
     <!-- <div id="mozilla-org"><a href="#">Mozilla Skin</a></div> -->
@@ -26,13 +26,13 @@
 
         <!-- Logo + site name -->
         <h1>
-            <a href="/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/wiki/a/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
+            <a href="/baxter-sdk/wiki/Main_Page" style="text-indent: 2em; width: 194px; height: 67px; background: transparent url(/baxter-sdk/wiki/a/skins/cavendishmw-rethinkrobotics/styles/images/header_logo.png) no-repeat scroll 5px -5px;" title="Visit the main page">&nbsp;</a>        </h1>
 
 	<div id="rr_ActionWrap">
 	<!-- Account action links -->
-	<div id="accountActions"><a href="/wiki/a/index.php?title=Special:UserLogin&returnto=Special%3AContributions%2F50.202.91.130">Log in</a></div>
+	<div id="accountActions"><a href="/baxter-sdk/wiki/a/index.php?title=Special:UserLogin&returnto=Special%3AContributions%2F50.202.91.130">Log in</a></div>
         <!-- Search box -->
-            <form action="/wiki/a/index.php" id="searchform">
+            <form action="/baxter-sdk/wiki/a/index.php" id="searchform">
         <label for="searchInput">Search</label>
         <input type='hidden' name="title" value="Special:Search"/>
         <input type="search" name="search" placeholder="Search sdk-wiki" title="Search sdk-wiki [f]" accesskey="f" id="searchInput"/>
@@ -47,15 +47,15 @@
 
 
         <!-- Content action buttons -->
-        <ul><li><a href="#">More</a><ul><li id="ca-nstab-special" class="selected"><a href="/wiki/Special:Contributions/50.202.91.130" title="This is a special page, and it cannot be edited">Special page</a></li></ul></li></ul>
+        <ul><li><a href="#">More</a><ul><li id="ca-nstab-special" class="selected"><a href="/baxter-sdk/wiki/Special:Contributions/50.202.91.130" title="This is a special page, and it cannot be edited">Special page</a></li></ul></li></ul>
 </div><!-- end fragment firstHeader --><!-- start fragment sidebar -->        <div id="side" class="noprint" > <!-- cavendishmw: s/column-one/side/ -->
             <ul id="nav">
                       <li><span>Navigation</span>
             <ul>
-                <li id="n-Getting-Started"><a href="/wiki/Getting_Started">Getting Started</a></li>
-                <li id="n-Learning"><a href="/wiki/Learning">Learning</a></li>
-                <li id="n-Community"><a href="/wiki/Community">Community</a></li>
-                <li id="n-Support"><a href="/wiki/Support">Support</a></li>
+                <li id="n-Getting-Started"><a href="/baxter-sdk/wiki/Getting_Started">Getting Started</a></li>
+                <li id="n-Learning"><a href="/baxter-sdk/wiki/Learning">Learning</a></li>
+                <li id="n-Community"><a href="/baxter-sdk/wiki/Community">Community</a></li>
+                <li id="n-Support"><a href="/baxter-sdk/wiki/Support">Support</a></li>
             </ul>
         </li>
       <li><span>Links</span>
@@ -67,9 +67,9 @@
         </li>
       <li><span>Tools</span>
             <ul class="collapsible-collapsed">
-                <li id="n-All-Pages"><a href="/wiki/Special:AllPages">All Pages</a></li>
-                <li id="n-Upload-File"><a href="/wiki/Special:Upload">Upload File</a></li>
-                <li id="n-What-Links-Here.3F"><a href="/wiki/Special:WhatLinksHere">What Links Here?</a></li>
+                <li id="n-All-Pages"><a href="/baxter-sdk/wiki/Special:AllPages">All Pages</a></li>
+                <li id="n-Upload-File"><a href="/baxter-sdk/wiki/Special:Upload">Upload File</a></li>
+                <li id="n-What-Links-Here.3F"><a href="/baxter-sdk/wiki/Special:WhatLinksHere">What Links Here?</a></li>
             </ul>
         </li>
             </ul> <!-- /nav -->
@@ -79,11 +79,11 @@
     
   <div id="bodyContent" class="mw-body">
     <div id="siteSub">From sdk-wiki</div>
-    <div id="contentSub">For 50.202.91.130 (<a href="/wiki/a/index.php?title=User_talk:50.202.91.130&amp;action=edit&amp;redlink=1" class="new" title="User talk:50.202.91.130 (page does not exist)">talk</a> | <a href="/wiki/a/index.php?title=Special:Log/block&amp;page=User%3A50.202.91.130" title="Special:Log/block">block log</a> | <a href="/wiki/Special:ListFiles/50.202.91.130" title="Special:ListFiles/50.202.91.130">uploads</a> | <a href="/wiki/Special:Log/50.202.91.130" title="Special:Log/50.202.91.130">logs</a>)</div>
+    <div id="contentSub">For 50.202.91.130 (<a href="/baxter-sdk/wiki/a/index.php?title=User_talk:50.202.91.130&amp;action=edit&amp;redlink=1" class="new" title="User talk:50.202.91.130 (page does not exist)">talk</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Special:Log/block&amp;page=User%3A50.202.91.130" title="Special:Log/block">block log</a> | <a href="/baxter-sdk/wiki/Special:ListFiles/50.202.91.130" title="Special:ListFiles/50.202.91.130">uploads</a> | <a href="/baxter-sdk/wiki/Special:Log/50.202.91.130" title="Special:Log/50.202.91.130">logs</a>)</div>
     <div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
     
   <!-- start content -->
-  <div id="mw-content-text"><form method="get" action="/wiki/a/index.php" class="mw-contributions-form">	<input type="hidden" value="50" name="limit"/>
+  <div id="mw-content-text"><form method="get" action="/baxter-sdk/wiki/a/index.php" class="mw-contributions-form">	<input type="hidden" value="50" name="limit"/>
 	<input type="hidden" value="Special:Contributions" name="title"/>
 <fieldset class="mw-contributions-table">
 <legend>Search for contributions</legend>
@@ -105,201 +105,201 @@
 <option value="13">Help talk</option>
 <option value="14">Category</option>
 <option value="15">Category talk</option>
-</select>&#160;<span class="mw-input-with-label"><input name="nsInvert" type="checkbox" value="1" id="nsInvert" title="Check this box to hide changes to pages within the selected namespace (and the associated namespace if checked)" class="mw-input" />&#160;<label for="nsInvert" class="mw-input" title="Check this box to hide changes to pages within the selected namespace (and the associated namespace if checked)">Invert selection</label>&#160;</span><span class="mw-input-with-label"><input name="associated" type="checkbox" value="1" id="associated" title="Check this box to also include the talk or subject namespace associated with the selected namespace" class="mw-input" />&#160;<label for="associated" class="mw-input" title="Check this box to also include the talk or subject namespace associated with the selected namespace">Associated namespace</label>&#160;</span></div><div><label for="tagfilter"><a href="/wiki/Special:Tags" title="Special:Tags">Tag</a> filter:</label>&#160;<input name="tagfilter" size="20" value="" class="mw-tagfilter-input mw-ui-input mw-ui-input-inline" id="tagfilter" /></div><div><span class="mw-input-with-label"><input name="topOnly" type="checkbox" value="1" id="mw-show-top-only" class="mw-input" />&#160;<label for="mw-show-top-only" class="mw-input">Only show edits that are latest revisions</label></span><span class="mw-input-with-label"><input name="newOnly" type="checkbox" value="1" id="mw-show-new-only" class="mw-input" />&#160;<label for="mw-show-new-only" class="mw-input">Only show edits that are page creations</label></span><span class="mw-input-with-label"><input name="hideMinor" type="checkbox" value="1" id="mw-hide-minor-edits" class="mw-input" />&#160;<label for="mw-hide-minor-edits" class="mw-input">Hide minor edits</label></span></div><div><label for="mw-date-start">From date:</label> <div id='mw-date-start' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-dateInputWidget' data-ooui='{"_":"mw.widgets.DateInputWidget","longDisplayFormat":true,"precision":"day","$overlay":true,"placeholder":"YYYY-MM-DD","name":"start"}'><input type='date' tabindex='0' aria-disabled='false' name='start' value='' placeholder='YYYY-MM-DD' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-indicatorElement-indicator'></span></div><br><label for="mw-date-end">To date:</label> <div id='mw-date-end' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-dateInputWidget' data-ooui='{"_":"mw.widgets.DateInputWidget","longDisplayFormat":true,"precision":"day","$overlay":true,"placeholder":"YYYY-MM-DD","name":"end"}'><input type='date' tabindex='0' aria-disabled='false' name='end' value='' placeholder='YYYY-MM-DD' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-indicatorElement-indicator'></span></div></div><div><input class="mw-submit" type="submit" value="Search"/></div>
+</select>&#160;<span class="mw-input-with-label"><input name="nsInvert" type="checkbox" value="1" id="nsInvert" title="Check this box to hide changes to pages within the selected namespace (and the associated namespace if checked)" class="mw-input" />&#160;<label for="nsInvert" class="mw-input" title="Check this box to hide changes to pages within the selected namespace (and the associated namespace if checked)">Invert selection</label>&#160;</span><span class="mw-input-with-label"><input name="associated" type="checkbox" value="1" id="associated" title="Check this box to also include the talk or subject namespace associated with the selected namespace" class="mw-input" />&#160;<label for="associated" class="mw-input" title="Check this box to also include the talk or subject namespace associated with the selected namespace">Associated namespace</label>&#160;</span></div><div><label for="tagfilter"><a href="/baxter-sdk/wiki/Special:Tags" title="Special:Tags">Tag</a> filter:</label>&#160;<input name="tagfilter" size="20" value="" class="mw-tagfilter-input mw-ui-input mw-ui-input-inline" id="tagfilter" /></div><div><span class="mw-input-with-label"><input name="topOnly" type="checkbox" value="1" id="mw-show-top-only" class="mw-input" />&#160;<label for="mw-show-top-only" class="mw-input">Only show edits that are latest revisions</label></span><span class="mw-input-with-label"><input name="newOnly" type="checkbox" value="1" id="mw-show-new-only" class="mw-input" />&#160;<label for="mw-show-new-only" class="mw-input">Only show edits that are page creations</label></span><span class="mw-input-with-label"><input name="hideMinor" type="checkbox" value="1" id="mw-hide-minor-edits" class="mw-input" />&#160;<label for="mw-hide-minor-edits" class="mw-input">Hide minor edits</label></span></div><div><label for="mw-date-start">From date:</label> <div id='mw-date-start' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-dateInputWidget' data-ooui='{"_":"mw.widgets.DateInputWidget","longDisplayFormat":true,"precision":"day","$overlay":true,"placeholder":"YYYY-MM-DD","name":"start"}'><input type='date' tabindex='0' aria-disabled='false' name='start' value='' placeholder='YYYY-MM-DD' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-indicatorElement-indicator'></span></div><br><label for="mw-date-end">To date:</label> <div id='mw-date-end' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-dateInputWidget' data-ooui='{"_":"mw.widgets.DateInputWidget","longDisplayFormat":true,"precision":"day","$overlay":true,"placeholder":"YYYY-MM-DD","name":"end"}'><input type='date' tabindex='0' aria-disabled='false' name='end' value='' placeholder='YYYY-MM-DD' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-indicatorElement-indicator'></span></div></div><div><input class="mw-submit" type="submit" value="Search"/></div>
 </fieldset>
 </form><p></p><ul class="mw-contributions-list">
-<li data-mw-revid="2269"><a href="/wiki/a/index.php?title=Arm_Calibration&amp;oldid=2269" class="mw-changeslist-date" title="Arm Calibration">18:15, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Arm_Calibration&amp;diff=prev&amp;oldid=2269" class="mw-changeslist-diff" title="Arm Calibration">diff</a> | <a href="/wiki/a/index.php?title=Arm_Calibration&amp;action=history" class="mw-changeslist-history" title="Arm Calibration">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="4,655 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Arm_Calibration" class="mw-contributions-title" title="Arm Calibration">Arm Calibration</a>
-‎ <span class="comment">(<a href="/wiki/Arm_Calibration#Tare_-_tare.py" title="Arm Calibration">→</a>‎<span dir="auto"><span class="autocomment">Tare - tare.py</span></span>)</span>
+<li data-mw-revid="2269"><a href="/baxter-sdk/wiki/a/index.php?title=Arm_Calibration&amp;oldid=2269" class="mw-changeslist-date" title="Arm Calibration">18:15, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Arm_Calibration&amp;diff=prev&amp;oldid=2269" class="mw-changeslist-diff" title="Arm Calibration">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Arm_Calibration&amp;action=history" class="mw-changeslist-history" title="Arm Calibration">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="4,655 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Arm_Calibration" class="mw-contributions-title" title="Arm Calibration">Arm Calibration</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Arm_Calibration#Tare_-_tare.py" title="Arm Calibration">→</a>‎<span dir="auto"><span class="autocomment">Tare - tare.py</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="2260"><a href="/wiki/a/index.php?title=Control_Systems&amp;oldid=2260" class="mw-changeslist-date" title="Control Systems">17:04, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Control_Systems&amp;diff=prev&amp;oldid=2260" class="mw-changeslist-diff" title="Control Systems">diff</a> | <a href="/wiki/a/index.php?title=Control_Systems&amp;action=history" class="mw-changeslist-history" title="Control Systems">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="2,430 bytes after change">(+131)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Control_Systems" class="mw-contributions-title" title="Control Systems">Control Systems</a>
+<li data-mw-revid="2260"><a href="/baxter-sdk/wiki/a/index.php?title=Control_Systems&amp;oldid=2260" class="mw-changeslist-date" title="Control Systems">17:04, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Control_Systems&amp;diff=prev&amp;oldid=2260" class="mw-changeslist-diff" title="Control Systems">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Control_Systems&amp;action=history" class="mw-changeslist-history" title="Control Systems">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="2,430 bytes after change">(+131)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Control_Systems" class="mw-contributions-title" title="Control Systems">Control Systems</a>
 ‎
 
 
 </li>
-<li data-mw-revid="2243"><a href="/wiki/a/index.php?title=Demo_Mode_-_Code_Walkthrough&amp;oldid=2243" class="mw-changeslist-date" title="Demo Mode - Code Walkthrough">16:00, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Demo_Mode_-_Code_Walkthrough&amp;diff=prev&amp;oldid=2243" class="mw-changeslist-diff" title="Demo Mode - Code Walkthrough">diff</a> | <a href="/wiki/a/index.php?title=Demo_Mode_-_Code_Walkthrough&amp;action=history" class="mw-changeslist-history" title="Demo Mode - Code Walkthrough">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="17,154 bytes after change">(-5)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Demo_Mode_-_Code_Walkthrough" class="mw-contributions-title" title="Demo Mode - Code Walkthrough">Demo Mode - Code Walkthrough</a>
-‎ <span class="comment">(<a href="/wiki/Demo_Mode_-_Code_Walkthrough#Anatomy_of_a_Button_-_Layering_images_and_text_in_PIL" title="Demo Mode - Code Walkthrough">→</a>‎<span dir="auto"><span class="autocomment">Anatomy of a Button - Layering images and text in PIL</span></span>)</span>
+<li data-mw-revid="2243"><a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode_-_Code_Walkthrough&amp;oldid=2243" class="mw-changeslist-date" title="Demo Mode - Code Walkthrough">16:00, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode_-_Code_Walkthrough&amp;diff=prev&amp;oldid=2243" class="mw-changeslist-diff" title="Demo Mode - Code Walkthrough">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode_-_Code_Walkthrough&amp;action=history" class="mw-changeslist-history" title="Demo Mode - Code Walkthrough">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="17,154 bytes after change">(-5)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Demo_Mode_-_Code_Walkthrough" class="mw-contributions-title" title="Demo Mode - Code Walkthrough">Demo Mode - Code Walkthrough</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Demo_Mode_-_Code_Walkthrough#Anatomy_of_a_Button_-_Layering_images_and_text_in_PIL" title="Demo Mode - Code Walkthrough">→</a>‎<span dir="auto"><span class="autocomment">Anatomy of a Button - Layering images and text in PIL</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="2241"><a href="/wiki/a/index.php?title=Control_Systems&amp;oldid=2241" class="mw-changeslist-date" title="Control Systems">15:45, 14 May 2014</a>
-(diff | <a href="/wiki/a/index.php?title=Control_Systems&amp;action=history" class="mw-changeslist-history" title="Control Systems">hist</a>) <span class="mw-changeslist-separator">. .</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,139 bytes after change">(+1,139)</strong>‎ <span class="mw-changeslist-separator">. .</span> <abbr class="newpage" title="This edit created a new page">N</abbr>
-<a href="/wiki/Control_Systems" class="mw-contributions-title" title="Control Systems">Control Systems</a>
+<li data-mw-revid="2241"><a href="/baxter-sdk/wiki/a/index.php?title=Control_Systems&amp;oldid=2241" class="mw-changeslist-date" title="Control Systems">15:45, 14 May 2014</a>
+(diff | <a href="/baxter-sdk/wiki/a/index.php?title=Control_Systems&amp;action=history" class="mw-changeslist-history" title="Control Systems">hist</a>) <span class="mw-changeslist-separator">. .</span> <strong dir="ltr" class="mw-plusminus-pos" title="1,139 bytes after change">(+1,139)</strong>‎ <span class="mw-changeslist-separator">. .</span> <abbr class="newpage" title="This edit created a new page">N</abbr>
+<a href="/baxter-sdk/wiki/Control_Systems" class="mw-contributions-title" title="Control Systems">Control Systems</a>
 ‎ <span class="comment">(Created page with &quot;There are several control systems provided with Baxter which can be enabled/disabled depending on the requirements.  == Gravity Compensation ==  In order to oppose the effect ...&quot;)</span>
 
 
 </li>
-<li data-mw-revid="2233"><a href="/wiki/a/index.php?title=Demo_Mode&amp;oldid=2233" class="mw-changeslist-date" title="Demo Mode">15:21, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2233" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="1,972 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
-‎ <span class="comment">(<a href="/wiki/Demo_Mode#Record.2FPlayback" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Record/Playback</span></span>)</span>
+<li data-mw-revid="2233"><a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;oldid=2233" class="mw-changeslist-date" title="Demo Mode">15:21, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2233" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="1,972 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Demo_Mode#Record.2FPlayback" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Record/Playback</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="2232"><a href="/wiki/a/index.php?title=Demo_Mode&amp;oldid=2232" class="mw-changeslist-date" title="Demo Mode">15:20, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2232" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="1,972 bytes after change">(+18)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
-‎ <span class="comment">(<a href="/wiki/Demo_Mode#Record.2FPlayback" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Record/Playback</span></span>)</span>
+<li data-mw-revid="2232"><a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;oldid=2232" class="mw-changeslist-date" title="Demo Mode">15:20, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2232" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="1,972 bytes after change">(+18)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Demo_Mode#Record.2FPlayback" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Record/Playback</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="2230"><a href="/wiki/a/index.php?title=Demo_Mode&amp;oldid=2230" class="mw-changeslist-date" title="Demo Mode">15:16, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2230" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="1,954 bytes after change">(+80)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
-‎ <span class="comment">(<a href="/wiki/Demo_Mode#Record.2FPlayback" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Record/Playback</span></span>)</span>
+<li data-mw-revid="2230"><a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;oldid=2230" class="mw-changeslist-date" title="Demo Mode">15:16, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2230" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="1,954 bytes after change">(+80)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Demo_Mode#Record.2FPlayback" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Record/Playback</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="2229"><a href="/wiki/a/index.php?title=Demo_Mode&amp;oldid=2229" class="mw-changeslist-date" title="Demo Mode">14:53, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2229" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="1,874 bytes after change">(-2)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
-‎ <span class="comment">(<a href="/wiki/Demo_Mode#Demo_Mode" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Demo Mode</span></span>)</span>
+<li data-mw-revid="2229"><a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;oldid=2229" class="mw-changeslist-date" title="Demo Mode">14:53, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;diff=prev&amp;oldid=2229" class="mw-changeslist-diff" title="Demo Mode">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Demo_Mode&amp;action=history" class="mw-changeslist-history" title="Demo Mode">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="1,874 bytes after change">(-2)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Demo_Mode" class="mw-contributions-title" title="Demo Mode">Demo Mode</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Demo_Mode#Demo_Mode" title="Demo Mode">→</a>‎<span dir="auto"><span class="autocomment">Demo Mode</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="2220"><a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;oldid=2220" class="mw-changeslist-date" title="Configuration and Admin">12:11, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;diff=prev&amp;oldid=2220" class="mw-changeslist-diff" title="Configuration and Admin">diff</a> | <a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;action=history" class="mw-changeslist-history" title="Configuration and Admin">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="3,767 bytes after change">(+90)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Configuration_and_Admin" class="mw-contributions-title" title="Configuration and Admin">Configuration and Admin</a>
+<li data-mw-revid="2220"><a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;oldid=2220" class="mw-changeslist-date" title="Configuration and Admin">12:11, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;diff=prev&amp;oldid=2220" class="mw-changeslist-diff" title="Configuration and Admin">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;action=history" class="mw-changeslist-history" title="Configuration and Admin">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="3,767 bytes after change">(+90)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Configuration_and_Admin" class="mw-contributions-title" title="Configuration and Admin">Configuration and Admin</a>
 ‎
 
 
 </li>
-<li data-mw-revid="2219"><a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;oldid=2219" class="mw-changeslist-date" title="Configuration and Admin">12:11, 14 May 2014</a>
-(<a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;diff=prev&amp;oldid=2219" class="mw-changeslist-diff" title="Configuration and Admin">diff</a> | <a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;action=history" class="mw-changeslist-history" title="Configuration and Admin">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="3,677 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Configuration_and_Admin" class="mw-contributions-title" title="Configuration and Admin">Configuration and Admin</a>
+<li data-mw-revid="2219"><a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;oldid=2219" class="mw-changeslist-date" title="Configuration and Admin">12:11, 14 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;diff=prev&amp;oldid=2219" class="mw-changeslist-diff" title="Configuration and Admin">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;action=history" class="mw-changeslist-history" title="Configuration and Admin">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="3,677 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Configuration_and_Admin" class="mw-contributions-title" title="Configuration and Admin">Configuration and Admin</a>
 ‎
 
 
 </li>
-<li data-mw-revid="2158"><a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;oldid=2158" class="mw-changeslist-date" title="Configuration and Admin">17:50, 13 May 2014</a>
-(<a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;diff=prev&amp;oldid=2158" class="mw-changeslist-diff" title="Configuration and Admin">diff</a> | <a href="/wiki/a/index.php?title=Configuration_and_Admin&amp;action=history" class="mw-changeslist-history" title="Configuration and Admin">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="3,557 bytes after change">(+133)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Configuration_and_Admin" class="mw-contributions-title" title="Configuration and Admin">Configuration and Admin</a>
+<li data-mw-revid="2158"><a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;oldid=2158" class="mw-changeslist-date" title="Configuration and Admin">17:50, 13 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;diff=prev&amp;oldid=2158" class="mw-changeslist-diff" title="Configuration and Admin">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Configuration_and_Admin&amp;action=history" class="mw-changeslist-history" title="Configuration and Admin">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="3,557 bytes after change">(+133)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Configuration_and_Admin" class="mw-contributions-title" title="Configuration and Admin">Configuration and Admin</a>
 ‎
 
 
 </li>
-<li data-mw-revid="2124"><a href="/wiki/a/index.php?title=Foundations&amp;oldid=2124" class="mw-changeslist-date" title="Foundations">14:54, 13 May 2014</a>
-(<a href="/wiki/a/index.php?title=Foundations&amp;diff=prev&amp;oldid=2124" class="mw-changeslist-diff" title="Foundations">diff</a> | <a href="/wiki/a/index.php?title=Foundations&amp;action=history" class="mw-changeslist-history" title="Foundations">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="3,041 bytes after change">(-4)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Foundations" class="mw-contributions-title" title="Foundations">Foundations</a>
+<li data-mw-revid="2124"><a href="/baxter-sdk/wiki/a/index.php?title=Foundations&amp;oldid=2124" class="mw-changeslist-date" title="Foundations">14:54, 13 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Foundations&amp;diff=prev&amp;oldid=2124" class="mw-changeslist-diff" title="Foundations">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Foundations&amp;action=history" class="mw-changeslist-history" title="Foundations">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="3,041 bytes after change">(-4)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Foundations" class="mw-contributions-title" title="Foundations">Foundations</a>
 ‎
 
 
 </li>
-<li data-mw-revid="2121"><a href="/wiki/a/index.php?title=Learning&amp;oldid=2121" class="mw-changeslist-date" title="Learning">14:48, 13 May 2014</a>
-(<a href="/wiki/a/index.php?title=Learning&amp;diff=prev&amp;oldid=2121" class="mw-changeslist-diff" title="Learning">diff</a> | <a href="/wiki/a/index.php?title=Learning&amp;action=history" class="mw-changeslist-history" title="Learning">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="2,282 bytes after change">(+73)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Learning" class="mw-contributions-title" title="Learning">Learning</a>
+<li data-mw-revid="2121"><a href="/baxter-sdk/wiki/a/index.php?title=Learning&amp;oldid=2121" class="mw-changeslist-date" title="Learning">14:48, 13 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Learning&amp;diff=prev&amp;oldid=2121" class="mw-changeslist-diff" title="Learning">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Learning&amp;action=history" class="mw-changeslist-history" title="Learning">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="2,282 bytes after change">(+73)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Learning" class="mw-contributions-title" title="Learning">Learning</a>
 ‎
 
 
 </li>
-<li data-mw-revid="2119"><a href="/wiki/a/index.php?title=Learning&amp;oldid=2119" class="mw-changeslist-date" title="Learning">14:42, 13 May 2014</a>
-(<a href="/wiki/a/index.php?title=Learning&amp;diff=prev&amp;oldid=2119" class="mw-changeslist-diff" title="Learning">diff</a> | <a href="/wiki/a/index.php?title=Learning&amp;action=history" class="mw-changeslist-history" title="Learning">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="2,209 bytes after change">(-11)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Learning" class="mw-contributions-title" title="Learning">Learning</a>
+<li data-mw-revid="2119"><a href="/baxter-sdk/wiki/a/index.php?title=Learning&amp;oldid=2119" class="mw-changeslist-date" title="Learning">14:42, 13 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Learning&amp;diff=prev&amp;oldid=2119" class="mw-changeslist-diff" title="Learning">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Learning&amp;action=history" class="mw-changeslist-history" title="Learning">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="2,209 bytes after change">(-11)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Learning" class="mw-contributions-title" title="Learning">Learning</a>
 ‎
 
 
 </li>
-<li data-mw-revid="1822"><a href="/wiki/a/index.php?title=Gripper_Cuff_Control_-_Code_Walkthrough&amp;oldid=1822" class="mw-changeslist-date" title="Gripper Cuff Control - Code Walkthrough">01:16, 9 May 2014</a>
-(diff | <a href="/wiki/a/index.php?title=Gripper_Cuff_Control_-_Code_Walkthrough&amp;action=history" class="mw-changeslist-history" title="Gripper Cuff Control - Code Walkthrough">hist</a>) <span class="mw-changeslist-separator">. .</span> <strong dir="ltr" class="mw-plusminus-pos" title="6,487 bytes after change">(+6,487)</strong>‎ <span class="mw-changeslist-separator">. .</span> <abbr class="newpage" title="This edit created a new page">N</abbr>
-<a href="/wiki/Gripper_Cuff_Control_-_Code_Walkthrough" class="mw-contributions-title" title="Gripper Cuff Control - Code Walkthrough">Gripper Cuff Control - Code Walkthrough</a>
+<li data-mw-revid="1822"><a href="/baxter-sdk/wiki/a/index.php?title=Gripper_Cuff_Control_-_Code_Walkthrough&amp;oldid=1822" class="mw-changeslist-date" title="Gripper Cuff Control - Code Walkthrough">01:16, 9 May 2014</a>
+(diff | <a href="/baxter-sdk/wiki/a/index.php?title=Gripper_Cuff_Control_-_Code_Walkthrough&amp;action=history" class="mw-changeslist-history" title="Gripper Cuff Control - Code Walkthrough">hist</a>) <span class="mw-changeslist-separator">. .</span> <strong dir="ltr" class="mw-plusminus-pos" title="6,487 bytes after change">(+6,487)</strong>‎ <span class="mw-changeslist-separator">. .</span> <abbr class="newpage" title="This edit created a new page">N</abbr>
+<a href="/baxter-sdk/wiki/Gripper_Cuff_Control_-_Code_Walkthrough" class="mw-contributions-title" title="Gripper Cuff Control - Code Walkthrough">Gripper Cuff Control - Code Walkthrough</a>
 ‎ <span class="comment">(Created page with &quot;== Introduction ==  This program demonstrates the usage of gripper interface to control the close and open actions of the grippers. The &lt;code&gt;main()&lt;/code&gt; function creates an...&quot;)</span>
 
 
 </li>
-<li data-mw-revid="1819"><a href="/wiki/a/index.php?title=Joint_Torque_Springs_-_Code_Walkthrough&amp;oldid=1819" class="mw-changeslist-date" title="Joint Torque Springs - Code Walkthrough">22:19, 8 May 2014</a>
-(<a href="/wiki/a/index.php?title=Joint_Torque_Springs_-_Code_Walkthrough&amp;diff=prev&amp;oldid=1819" class="mw-changeslist-diff" title="Joint Torque Springs - Code Walkthrough">diff</a> | <a href="/wiki/a/index.php?title=Joint_Torque_Springs_-_Code_Walkthrough&amp;action=history" class="mw-changeslist-history" title="Joint Torque Springs - Code Walkthrough">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="11,059 bytes after change">(+13)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Joint_Torque_Springs_-_Code_Walkthrough" class="mw-contributions-title" title="Joint Torque Springs - Code Walkthrough">Joint Torque Springs - Code Walkthrough</a>
-‎ <span class="comment">(<a href="/wiki/Joint_Torque_Springs_-_Code_Walkthrough#Code_Walkthrough" title="Joint Torque Springs - Code Walkthrough">→</a>‎<span dir="auto"><span class="autocomment">Code Walkthrough</span></span>)</span>
+<li data-mw-revid="1819"><a href="/baxter-sdk/wiki/a/index.php?title=Joint_Torque_Springs_-_Code_Walkthrough&amp;oldid=1819" class="mw-changeslist-date" title="Joint Torque Springs - Code Walkthrough">22:19, 8 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Joint_Torque_Springs_-_Code_Walkthrough&amp;diff=prev&amp;oldid=1819" class="mw-changeslist-diff" title="Joint Torque Springs - Code Walkthrough">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Joint_Torque_Springs_-_Code_Walkthrough&amp;action=history" class="mw-changeslist-history" title="Joint Torque Springs - Code Walkthrough">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="11,059 bytes after change">(+13)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Joint_Torque_Springs_-_Code_Walkthrough" class="mw-contributions-title" title="Joint Torque Springs - Code Walkthrough">Joint Torque Springs - Code Walkthrough</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Joint_Torque_Springs_-_Code_Walkthrough#Code_Walkthrough" title="Joint Torque Springs - Code Walkthrough">→</a>‎<span dir="auto"><span class="autocomment">Code Walkthrough</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="1575"><a href="/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1575" class="mw-changeslist-date" title="Workstation Setup">20:14, 7 May 2014</a>
-(<a href="/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1575" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="17,091 bytes after change">(-20)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
-‎ <span class="comment">(<a href="/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
+<li data-mw-revid="1575"><a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1575" class="mw-changeslist-date" title="Workstation Setup">20:14, 7 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1575" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="17,091 bytes after change">(-20)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="1574"><a href="/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1574" class="mw-changeslist-date" title="Workstation Setup">20:09, 7 May 2014</a>
-(<a href="/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1574" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="17,111 bytes after change">(+20)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
-‎ <span class="comment">(<a href="/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
+<li data-mw-revid="1574"><a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1574" class="mw-changeslist-date" title="Workstation Setup">20:09, 7 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1574" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="17,111 bytes after change">(+20)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="1573"><a href="/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1573" class="mw-changeslist-date" title="Workstation Setup">20:06, 7 May 2014</a>
-(<a href="/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1573" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="17,091 bytes after change">(+16)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
-‎ <span class="comment">(<a href="/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
+<li data-mw-revid="1573"><a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1573" class="mw-changeslist-date" title="Workstation Setup">20:06, 7 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1573" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="17,091 bytes after change">(+16)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="1572"><a href="/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1572" class="mw-changeslist-date" title="Workstation Setup">20:05, 7 May 2014</a>
-(<a href="/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1572" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="17,075 bytes after change">(+16)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
-‎ <span class="comment">(<a href="/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
+<li data-mw-revid="1572"><a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1572" class="mw-changeslist-date" title="Workstation Setup">20:05, 7 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1572" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="17,075 bytes after change">(+16)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Workstation_Setup#Step_3:_Install_Baxter_Research_Robot_SDK" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 3: Install Baxter Research Robot SDK</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="1571"><a href="/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1571" class="mw-changeslist-date" title="Workstation Setup">20:02, 7 May 2014</a>
-(<a href="/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1571" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="17,059 bytes after change">(-94)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
-‎ <span class="comment">(<a href="/wiki/Workstation_Setup#Step_1:_Install_Ubuntu.2FROS" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 1: Install Ubuntu/ROS</span></span>)</span>
+<li data-mw-revid="1571"><a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;oldid=1571" class="mw-changeslist-date" title="Workstation Setup">20:02, 7 May 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;diff=prev&amp;oldid=1571" class="mw-changeslist-diff" title="Workstation Setup">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Workstation_Setup&amp;action=history" class="mw-changeslist-history" title="Workstation Setup">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="17,059 bytes after change">(-94)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Workstation_Setup" class="mw-contributions-title" title="Workstation Setup">Workstation Setup</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Workstation_Setup#Step_1:_Install_Ubuntu.2FROS" title="Workstation Setup">→</a>‎<span dir="auto"><span class="autocomment">Step 1: Install Ubuntu/ROS</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="1099"><a href="/wiki/a/index.php?title=Baxter_Simulator&amp;oldid=1099" class="mw-changeslist-date" title="Baxter Simulator">19:12, 27 March 2014</a>
-(<a href="/wiki/a/index.php?title=Baxter_Simulator&amp;diff=prev&amp;oldid=1099" class="mw-changeslist-diff" title="Baxter Simulator">diff</a> | <a href="/wiki/a/index.php?title=Baxter_Simulator&amp;action=history" class="mw-changeslist-history" title="Baxter Simulator">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="1,600 bytes after change">(-1)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Baxter_Simulator" class="mw-contributions-title" title="Baxter Simulator">Baxter Simulator</a>
-‎ <span class="comment">(<a href="/wiki/Baxter_Simulator#Gazebo" title="Baxter Simulator">→</a>‎<span dir="auto"><span class="autocomment">Gazebo</span></span>)</span>
+<li data-mw-revid="1099"><a href="/baxter-sdk/wiki/a/index.php?title=Baxter_Simulator&amp;oldid=1099" class="mw-changeslist-date" title="Baxter Simulator">19:12, 27 March 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Baxter_Simulator&amp;diff=prev&amp;oldid=1099" class="mw-changeslist-diff" title="Baxter Simulator">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Baxter_Simulator&amp;action=history" class="mw-changeslist-history" title="Baxter Simulator">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="1,600 bytes after change">(-1)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Baxter_Simulator" class="mw-contributions-title" title="Baxter Simulator">Baxter Simulator</a>
+‎ <span class="comment">(<a href="/baxter-sdk/wiki/Baxter_Simulator#Gazebo" title="Baxter Simulator">→</a>‎<span dir="auto"><span class="autocomment">Gazebo</span></span>)</span>
 
 
 </li>
-<li data-mw-revid="887" class="mw-contributions-current"><a href="/wiki/a/index.php?title=Talk:Development_Workstation_Setup_Instructions&amp;oldid=887" class="mw-changeslist-date" title="Talk:Development Workstation Setup Instructions">15:19, 18 March 2014</a>
-(diff | <a href="/wiki/a/index.php?title=Talk:Development_Workstation_Setup_Instructions&amp;action=history" class="mw-changeslist-history" title="Talk:Development Workstation Setup Instructions">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="46 bytes after change">(+46)</span>‎ <span class="mw-changeslist-separator">. .</span> <abbr class="newpage" title="This edit created a new page">N</abbr>
-<a href="/wiki/Talk:Development_Workstation_Setup_Instructions" class="mw-contributions-title" title="Talk:Development Workstation Setup Instructions">Talk:Development Workstation Setup Instructions</a>
+<li data-mw-revid="887" class="mw-contributions-current"><a href="/baxter-sdk/wiki/a/index.php?title=Talk:Development_Workstation_Setup_Instructions&amp;oldid=887" class="mw-changeslist-date" title="Talk:Development Workstation Setup Instructions">15:19, 18 March 2014</a>
+(diff | <a href="/baxter-sdk/wiki/a/index.php?title=Talk:Development_Workstation_Setup_Instructions&amp;action=history" class="mw-changeslist-history" title="Talk:Development Workstation Setup Instructions">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="46 bytes after change">(+46)</span>‎ <span class="mw-changeslist-separator">. .</span> <abbr class="newpage" title="This edit created a new page">N</abbr>
+<a href="/baxter-sdk/wiki/Talk:Development_Workstation_Setup_Instructions" class="mw-contributions-title" title="Talk:Development Workstation Setup Instructions">Talk:Development Workstation Setup Instructions</a>
 ‎ <span class="comment">(Created page with &quot;Test Discussion: How does 13.04 affect things?&quot;)</span>
 <span class="mw-uctop">(current)</span>
 
 </li>
-<li data-mw-revid="861"><a href="/wiki/a/index.php?title=Examples&amp;oldid=861" class="mw-changeslist-date" title="Examples">14:52, 7 March 2014</a>
-(<a href="/wiki/a/index.php?title=Examples&amp;diff=prev&amp;oldid=861" class="mw-changeslist-diff" title="Examples">diff</a> | <a href="/wiki/a/index.php?title=Examples&amp;action=history" class="mw-changeslist-history" title="Examples">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="1,579 bytes after change">(+57)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Examples" class="mw-contributions-title" title="Examples">Examples</a>
+<li data-mw-revid="861"><a href="/baxter-sdk/wiki/a/index.php?title=Examples&amp;oldid=861" class="mw-changeslist-date" title="Examples">14:52, 7 March 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Examples&amp;diff=prev&amp;oldid=861" class="mw-changeslist-diff" title="Examples">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Examples&amp;action=history" class="mw-changeslist-history" title="Examples">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-pos" title="1,579 bytes after change">(+57)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Examples" class="mw-contributions-title" title="Examples">Examples</a>
 ‎
 
 
 </li>
-<li data-mw-revid="860"><a href="/wiki/a/index.php?title=Examples&amp;oldid=860" class="mw-changeslist-date" title="Examples">14:44, 7 March 2014</a>
-(<a href="/wiki/a/index.php?title=Examples&amp;diff=prev&amp;oldid=860" class="mw-changeslist-diff" title="Examples">diff</a> | <a href="/wiki/a/index.php?title=Examples&amp;action=history" class="mw-changeslist-history" title="Examples">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="1,522 bytes after change">(-97)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Examples" class="mw-contributions-title" title="Examples">Examples</a>
+<li data-mw-revid="860"><a href="/baxter-sdk/wiki/a/index.php?title=Examples&amp;oldid=860" class="mw-changeslist-date" title="Examples">14:44, 7 March 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Examples&amp;diff=prev&amp;oldid=860" class="mw-changeslist-diff" title="Examples">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Examples&amp;action=history" class="mw-changeslist-history" title="Examples">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-neg" title="1,522 bytes after change">(-97)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Examples" class="mw-contributions-title" title="Examples">Examples</a>
 ‎
 
 
 </li>
-<li data-mw-revid="411"><a href="/wiki/a/index.php?title=Home&amp;oldid=411" class="mw-changeslist-date" title="Home">15:50, 24 February 2014</a>
-(<a href="/wiki/a/index.php?title=Home&amp;diff=prev&amp;oldid=411" class="mw-changeslist-diff" title="Home">diff</a> | <a href="/wiki/a/index.php?title=Home&amp;action=history" class="mw-changeslist-history" title="Home">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="771 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/Home" class="mw-contributions-title" title="Home">Home</a>
+<li data-mw-revid="411"><a href="/baxter-sdk/wiki/a/index.php?title=Home&amp;oldid=411" class="mw-changeslist-date" title="Home">15:50, 24 February 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Home&amp;diff=prev&amp;oldid=411" class="mw-changeslist-diff" title="Home">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Home&amp;action=history" class="mw-changeslist-history" title="Home">hist</a>) <span class="mw-changeslist-separator">. .</span> <span dir="ltr" class="mw-plusminus-null" title="771 bytes after change">(0)</span>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/Home" class="mw-contributions-title" title="Home">Home</a>
 ‎
 
 
 </li>
-<li data-mw-revid="398"><a href="/wiki/a/index.php?title=Main_Page&amp;oldid=398" class="mw-redirect mw-changeslist-date" title="Main Page">15:42, 24 February 2014</a>
-(<a href="/wiki/a/index.php?title=Main_Page&amp;diff=prev&amp;oldid=398" class="mw-redirect mw-changeslist-diff" title="Main Page">diff</a> | <a href="/wiki/a/index.php?title=Main_Page&amp;action=history" class="mw-redirect mw-changeslist-history" title="Main Page">hist</a>) <span class="mw-changeslist-separator">. .</span> <strong dir="ltr" class="mw-plusminus-neg" title="18 bytes after change">(-600)</strong>‎ <span class="mw-changeslist-separator">. .</span> 
-<a href="/wiki/a/index.php?title=Main_Page&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Main Page">Main Page</a>
-‎ <span class="comment">(Redirected page to <a href="/wiki/Home" title="Home">Home</a>)</span>
+<li data-mw-revid="398"><a href="/baxter-sdk/wiki/a/index.php?title=Main_Page&amp;oldid=398" class="mw-redirect mw-changeslist-date" title="Main Page">15:42, 24 February 2014</a>
+(<a href="/baxter-sdk/wiki/a/index.php?title=Main_Page&amp;diff=prev&amp;oldid=398" class="mw-redirect mw-changeslist-diff" title="Main Page">diff</a> | <a href="/baxter-sdk/wiki/a/index.php?title=Main_Page&amp;action=history" class="mw-redirect mw-changeslist-history" title="Main Page">hist</a>) <span class="mw-changeslist-separator">. .</span> <strong dir="ltr" class="mw-plusminus-neg" title="18 bytes after change">(-600)</strong>‎ <span class="mw-changeslist-separator">. .</span> 
+<a href="/baxter-sdk/wiki/a/index.php?title=Main_Page&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Main Page">Main Page</a>
+‎ <span class="comment">(Redirected page to <a href="/baxter-sdk/wiki/Home" title="Home">Home</a>)</span>
 
 
 </li>
 </ul>
 <p></p></div><div class="printfooter">
-Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/wiki/Special:Contributions/50.202.91.130">http://sdk.rethinkrobotics.com/wiki/Special:Contributions/50.202.91.130</a>"</div>
+Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/baxter-sdk/wiki/Special:Contributions/50.202.91.130">http://sdk.rethinkrobotics.com/baxter-sdk/wiki/Special:Contributions/50.202.91.130</a>"</div>
   <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>  <!-- end content -->
   
     <div class="visualClear"></div>
@@ -307,13 +307,13 @@ Retrieved from "<a dir="ltr" href="http://sdk.rethinkrobotics.com/wiki/Special:C
 </div> <!-- /mainContent -->
 <!-- end fragment mainContent --></div> <!-- /mBody --><div class="visualClear"></div><!-- start fragment footer -->    <div id="footer" role="contentinfo">
         <div id="f-poweredbyico">
-                <a href="//www.mediawiki.org/"><img src="/wiki/a/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/a/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/a/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+                <a href="//www.mediawiki.org/"><img src="/baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /baxter-sdk/wiki/a/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
             </div>
         <ul id="f-list">
                 <li id="copywrite_notice">&copy; 2015 Rethink Robotics. All rights reserved.</li>
-                <li id="special_pages"><a href="/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
-                <li id="privacy"><a href="/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
-                <li id="about"><a href="/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
-                <li id="disclaimer"><a href="/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
+                <li id="special_pages"><a href="/baxter-sdk/wiki/Special:SpecialPages" title="Special:SpecialPages">SpecialPages</a></li>
+                <li id="privacy"><a href="/baxter-sdk/wiki/Sdk-wiki:Privacy_policy" title="Sdk-wiki:Privacy policy">Privacy policy</a></li>
+                <li id="about"><a href="/baxter-sdk/wiki/Sdk-wiki:About" title="Sdk-wiki:About">About sdk-wiki</a></li>
+                <li id="disclaimer"><a href="/baxter-sdk/wiki/Sdk-wiki:General_disclaimer" title="Sdk-wiki:General disclaimer">Disclaimers</a></li>
             </ul>
     </div><!-- end fragment footer --></div><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":47});});</script></body></html>
